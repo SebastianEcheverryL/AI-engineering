@@ -1,1 +1,14 @@
 private/*
+
+#environment files
+.env
+.venv/
+
+#python cache
+__pycache__/
+
+#windows
+Thumbs.db
+
+#test
+.pytest_cache/
