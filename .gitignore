@@ -12,3 +12,6 @@ Thumbs.db
 
 #test
 .pytest_cache/
+
+#IDE
+*.vscode/
